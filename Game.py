@@ -268,7 +268,7 @@ def entrada ():
         raw_input()
         print("Dentro de cada sala puedes encontrar diferentes objetos con los que puedes interactuar y puertas, a traves de las cuales puedes ir a otras salas")
 
-        print("Tu objetivo es internarte en lo mas profundo de la mazmorra, encontrar una sala con una TARDIS y usarla para derrotar al mono mago y devolver la Directasa")
+        print("Tu objetivo es internarte en lo mas profundo de la mazmorra, derrotar al mono mago y devolver la Directasa")
         print("Cada vez que entres en una sala leeras una descripcion de la misma (y puede que tengas que derrotar a un monstruo, aunque eso son detalles)")
         print("Esa descripcion te dira que objetos tiene la sala. Escribe ese objeto cuando decidas que hacer para interactuar con el mismo.")
         print("Para salir de una sala escribe derecha o izquierda. Eso te llevara a una nueva sala. Puedes usar tambien der y izq")
