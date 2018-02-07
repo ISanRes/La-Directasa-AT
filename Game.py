@@ -5,9 +5,6 @@ import os
 
 personaje = {}
 
-####FALTA PONER UN FINAL Y ANADIR BOSS + TIENDA
-
-
 def TheEnd ():
     print(personaje["nombre"],"encontro la Directasa.")
     print("Se reunen Pazos, Caliebre y Enoc alrededor del hallazgo.")
